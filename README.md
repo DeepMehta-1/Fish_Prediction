@@ -4,14 +4,12 @@
 For this project we have used the Fish dataset which is available on: https://www.kaggle.com/aungpyaeap/fish-market
 
 **Information about the attributes:**
-*
 Weight of Fish(g):  Enter weight of the the fish in gram. 
 Vertical Length(cm):  Enter vertical length in cm.
 Diagonal Length(cm):  Enter diagonal length in cm.
 Cross Lenght(cm); Enter cross length in cm.
 Hight(cm):  Enter hight in cm.
 Diagonal Width(cm): Enter diagonal length in cm.
-*
 
 The dataset includes 159 Rows and 7 columns(1 is dependent variable - species)
 
